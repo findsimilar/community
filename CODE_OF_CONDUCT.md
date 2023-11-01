@@ -42,7 +42,7 @@ posting via an official social media account, or acting as an appointed represen
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team 
-at [quill@craftsman.lol](mailto:quill@craftsman.lol). 
+at [quill@craftsman.lol][report_email_link]. 
 The project team will review and investigate all complaints and will respond in a way that it deems appropriate to the circumstances. 
 The project team is obligated to maintain confidentiality with regard to the reporter of an incident. 
 Further details of specific enforcement policies may be posted separately.
@@ -58,3 +58,5 @@ at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https
 
 For answers to common questions about this code of conduct, 
 see [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq)
+
+[report_email_link]: mailto:quill@craftsman.lol
